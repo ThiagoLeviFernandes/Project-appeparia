@@ -1,2 +1,2 @@
-# Project-appeparia
-Just HTML/CSS
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
